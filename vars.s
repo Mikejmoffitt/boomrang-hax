@@ -1,0 +1,5 @@
+R_WAIT_X_FRAMES = $A0D1
+R_NOPLOOP = $A2CE
+R_TOGGLE_INTS = $A006
+
+CreditCount = $0A
